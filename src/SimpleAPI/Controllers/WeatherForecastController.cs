@@ -43,7 +43,7 @@ namespace SimpleAPI.Controllers
         public ActionResult<string> Get(int id)
         {
             //Test change to file
-            return "Ernest Seto breaking code";
+            return "Ernest Seto";
         }
     }
 }
